@@ -12,6 +12,6 @@
   },
   "scripts": {
     "run": "node app.js",
-    "test": "mocha ./test/test.js"
+    "test": "coverage-node test.js"
   }
 }
