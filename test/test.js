@@ -1,4 +1,4 @@
-var request = require('supertest');
+var request = require('coverage-node');
 var app = require('../app.js');
 
 describe('GET /', function() {
