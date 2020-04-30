@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "coverage-node": "2.0.3"
+    "supertest": "0.13.0"
   },
   "scripts": {
     "run": "node app.js",
